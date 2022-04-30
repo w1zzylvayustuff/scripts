@@ -1,3 +1,5 @@
+#!/bin/bash
+
 STUFF=https://github.com/w1zzylvayustuff
 CHALDEA=https://github.com/chaldeaprjkt
 echo "Cloning resources"
