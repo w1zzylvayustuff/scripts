@@ -58,7 +58,7 @@ git clone -b lineage-19.1 https://github.com/LineageOS/android_hardware_xiaomi h
 git clone -b lineage-19.1 https://github.com/LineageOS/android_packages_resources_devicesettings packages/resources/devicesettings
 git clone -b 12.1 https://github.com/Project-Awaken/android_device_xiaomi_vayu.git device/xiaomi/vayu
 git clone -b 12.1 https://github.com/poco-x3p/android_vendor_xiaomi_vayu.git vendor/xiaomi/vayu
-git clone -b 12.1 https://github.com/raghavt20/kernel_sm8150.git kernel/xiaomi/vayu
+git clone -b 12.1 https://github.com/raghavt20/kernel_sm8150.git kernel/xiaomi/sm8150
 git clone -b 12-caf-sm8150 https://github.com/poco-x3p/android_hardware_qcom_audio.git hardware/qcom-caf/sm8150/audio
 git clone -b 12-caf-sm8150 https://github.com/poco-x3p/android_hardware_qcom_display.git hardware/qcom-caf/sm8150/display
 git clone -b 12-caf-sm8150 https://github.com/poco-x3p/android_hardware_qcom_media.git hardware/qcom-caf/sm8150/media
